@@ -3,7 +3,7 @@
   "version": "2.2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whymesay/hexo-aurora-auto-excerpt.git"
+    "url": "git+https://github.com/RubbyCherry/MusicApp.git"
   },
   "homepage": "https://github.com/whymesay/hexo-aurora-auto-excerpt#readme",
   "description": "Hexo plugin to add auto excerpt on posts with configured number of characters",
