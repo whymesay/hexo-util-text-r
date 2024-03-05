@@ -1,11 +1,11 @@
 {
-  "name": "hexo-aurora-auto-excerpt-util6",
+  "name": "hexo-util-text",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RubbyCherry/hexo-aurora-auto-excerpt-util6"
+    "url": "https://github.com/whymesay/hexo-util-text"
   },
-  "homepage": "https://github.com/RubbyCherry/hexo-aurora-auto-excerpt-util6#README.md",
+  "homepage": "https://github.com/whymesay/hexo-util-text#README.md",
   "description": "Hexo plugin to add auto excerpt on posts with configured number of characters",
   "main": "index.js",
   "author": "whymesay",
