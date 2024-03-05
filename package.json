@@ -11,6 +11,8 @@
   "author": "whymesay",
   "license": "MIT",
   "dependencies": {
-    "html-to-text": "^3.3.0"
+    "hexo-aurora-auto-excerpt": "^2.7.0",
+    "html-to-text": "^3.3.0",
+    "msw": "^2.2.2"
   }
 }
