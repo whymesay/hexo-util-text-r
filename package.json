@@ -1,11 +1,11 @@
 {
-  "name": "hexo-util-text-2",
+  "name": "hexo-util-text-r",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/whymesay/hexo-util-text-2"
+    "url": "https://github.com/whymesay/hexo-util-text-r"
   },
-  "homepage": "https://github.com/whymesay/hexo-util-text-2#README.md",
+  "homepage": "https://github.com/whymesay/hexo-util-text-r#README.md",
   "description": "Hexo plugin to add auto excerpt on posts with configured number of characters",
   "main": "index.js",
   "author": "whymesay",
